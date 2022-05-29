@@ -1,0 +1,36 @@
+.main{
+    
+    height: 25vh;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    border: 1px solid black;
+    margin: 10px;
+}
+
+.container{
+    margin: 10px;
+    padding: 10px;
+    height: 120px;
+    width: 120px;
+    background-color: rgb(91, 163, 91);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.alphabetsContainer{
+    width: 120px;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.alphabets{
+    color: white;
+    font-family: sans-serif;
+    font-size: large;
+    font-weight: bold;
+}

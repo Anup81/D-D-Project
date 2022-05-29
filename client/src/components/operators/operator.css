@@ -1,0 +1,47 @@
+.main{
+    
+    height: 25vh;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    border: 1px solid black;
+    margin: 10px;
+}
+
+.mainContainer{
+    margin: 10px;
+    padding: 10px;
+    height: 120px;
+    width: 120px;
+    background-color: #7f4e20;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.operatorContainer{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.operator{
+    color: white;
+    font-family: sans-serif;
+    font-size: large;
+    font-weight: bold;
+}
+
+.gapContainer{
+    margin: 10px;
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white !important;
+}
